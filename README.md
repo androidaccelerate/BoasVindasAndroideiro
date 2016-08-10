@@ -3,6 +3,9 @@ Boas Vindas Androideiro
 
 Nesse primeiro projeto nós vamos aplicar tudo o que aprendemos em nossa primeiras aulas e criar um cartão de boas vindas para os Androideiros. O foco principal agora é você entender como funciona as Views e ViewGroups.
 
+***Esse projeto faz parte do curso de desenvolvimento Android Accelerate (http://www.androidaccelerate.com.br/).***
+
+
 Pré-requisitos
 --------------
 Android SDK 21 or Higher
