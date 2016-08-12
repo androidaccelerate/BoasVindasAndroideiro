@@ -8,10 +8,9 @@ Nesse primeiro projeto nós vamos aplicar tudo o que aprendemos em nossa primeir
 
 Pré-requisitos
 --------------
-Android SDK 21 ou Mais novo
-Build Tools version 21.1.2
-Android Support AppCompat 22.2.0
-BumpTech Glide 3.5.2
+- Android SDK 23 ou mais novo
+- Build Tools version 23.0.2
+- Android Support AppCompat 23.4.0
 
 
 Começando
